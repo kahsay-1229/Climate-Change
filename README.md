@@ -4,8 +4,6 @@ With the recent COVID-19 that started in China and proceeded to be the most dest
 Challenges
 Tools used for ETL, analysis, and visualizing
 We used a wide range of tools with differing use cases to complete this project.
-* BreezoMeter API
-* Mapbox
 * Jupyter Notebook
 * Python (Pandas, Flask)
 * MongoDB
