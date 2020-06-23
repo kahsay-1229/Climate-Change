@@ -1,4 +1,4 @@
-Analyzing air quality of 400 densely populated cities 
+Analyzing air quality of 500 densely populated cities 
 Project Motivation
 With the recent COVID-19 that started in China and proceeded to be the most destructive and deadly Virus in history - and which significantly affected air quality - air quality was on the forefront of our minds and we found it prudent to do analyses of the air quality of different cities around the world. , we decided to analyze which cities were most affected by these factors and which cities were less affected. Based on the data we found, we were able to assess what factors contribute to air quality and air pollution.
 Challenges
