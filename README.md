@@ -12,7 +12,7 @@ We used a wide range of tools with differing use cases to complete this project.
 o D3 (Data Driven Documents)
 o Chart.js
 o Bootstrap
-o Leaflet
+o Leaflet,Git and VS Code
 Brief overview of tool usage
 1. We used Jupyter Notebook to insert the city latitude and longitude parameters from the CSV and feed it into the URL template.
 2. After ensuring we could iterate through the rows in our CSV and we could successfully enter the coordinates contained in the CSV and the parameters we were interested in looking at into URL template, we wrote a Python script that would allow us to create a connection to our local MongoDB server on our machine.
